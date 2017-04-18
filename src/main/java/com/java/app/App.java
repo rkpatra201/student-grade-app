@@ -24,3 +24,36 @@ public class App {
 		System.out.println("Fail Count: " + summary.getFailCount());
 	}
 }
+
+/**output **/
+
+/*
+ Hello World!
+Input Mark: 0.0
+Grade: F
+Input Mark: 92.0
+Grade: HD
+Input Mark: 34.0
+Grade: F
+Input Mark: 45.6
+Grade: F
+Input Mark: 51.23
+Grade: P
+Input Mark: 65.0
+Grade: C
+Input Mark: 76.0
+Grade: D
+Input Mark: 85.0
+Grade: HD
+Input Mark: 63.2
+Grade: P
+Input Mark: 95.3
+Grade: HD
+*****Result Summary*****
+Max: 95.3
+Min: 0.0
+Avg: 60.733
+Pass Count: 6
+Fail Count: 2
+
+ */
